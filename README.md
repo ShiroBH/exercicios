@@ -1,1 +1,1 @@
-# exercicios realizados utilizando HTML e CSS
+# exercícios realizados utilizando HTML e CSS
