@@ -1,0 +1,35 @@
+.rodape .logos ul{
+    margin-left: 40%;
+}
+.rodape .logos ul li{
+    
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    transition: 0.2s;
+
+}
+
+.rodape .logos ul li .item1:hover{
+    
+    transform: scale(1.3);
+
+}
+.rodape .logos ul li .item2:hover{
+    
+    transform: scale(1.3);
+
+}
+.rodape .logos ul li .item3:hover{
+    
+    transform: scale(1.3);
+
+}
+
+.rodape .logos p{
+    font-size: 20px;
+    color:#767676;
+    margin-left: 44%;
+}
+

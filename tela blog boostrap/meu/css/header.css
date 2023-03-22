@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+.menu{
+    
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+.menu h1{
+    margin-top: 13px;
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 18px;
+    transition: 0.2s;
+    
+}
+.menu h1:hover{
+    color: rgb(202, 202, 203);
+    
+}
+.menu .submenu{
+    margin-top: 13px;
+    display: inline-flex;
+    gap: 30px;
+    font-size: 20px;
+    margin-left: 84vh;
+}
+.menu .submenu a{
+    font-size: 16px;
+    font-weight: 900;
+    color: aliceblue;
+    text-decoration: none;
+    transition: 0.2s;
+    
+}
+.menu .submenu a:hover{
+    color: rgb(202, 202, 203);
+    
+}
+.titulo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-color: #212529;
+    opacity: 0.9;
+    max-width: 400vh;
+    height:450px;
+}
+
+.txttitulo{
+    color:aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.txttitulo .principal{
+    font-weight: 900;
+    font-size: 80px;
+}
+
+.txttitulo .secundario{
+    font-size: 23px;
+    margin-top:0;
+}

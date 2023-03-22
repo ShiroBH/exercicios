@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+.posts{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 13%;
+    border-bottom: 1px solid #ccc;
+    max-height: auto;
+   
+}
+.posts div{
+    color: #33373c;
+    margin-inline: 28%;
+    border-bottom: 1px solid #ccc;
+}
+
+.posts .titulopost{
+    font-weight: 900;
+    font-size: 37px;
+}
+
+.posts .subtitulopost{
+    font-weight: 100;
+    font-size: 27px;
+}
+.posts .linkpost1{
+    color:#767676;
+    
+}
+
+.posts .linkpost2{
+    color:#000;
+    text-decoration: none;
+}
+
+.botaoposts{
+    margin-left: 57%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 60px;
+    border:none;
+    background-color: rgb(94, 94, 248);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: aliceblue;
+    transition: 0.6s;
+}
+.botaoposts:hover{
+    background-color: rgb(67, 67, 172);
+    cursor: pointer;
+}

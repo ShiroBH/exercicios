@@ -1,0 +1,10 @@
+.carrosel img{
+    width: 200px;
+    height: 200px;
+   
+}
+
+.btnitem1:hover .item1{
+    display: none;
+}
+
